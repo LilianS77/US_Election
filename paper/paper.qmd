@@ -2,7 +2,7 @@
 title: "My title"
 subtitle: "My subtitle if needed"
 author: 
-  - First author
+  - Jianing Li
   - Another author
 thanks: "Code and data are available at: "https://github.com/LilianS77/US_Election."
 date: today
